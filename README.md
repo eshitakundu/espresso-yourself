@@ -2,7 +2,7 @@
 
 A Streamlit-powered conversational app where you can rant to AI characters in a coffee shop setting.
 
-![Café Atmosphere](app/static/bg.png)
+![Café Atmosphere](static/bg.png)
 
 ## Features
 
