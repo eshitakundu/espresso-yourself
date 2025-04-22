@@ -1,10 +1,10 @@
 [![Streamlit App](https://img.shields.io/badge/Live_App-Click_Here-brightgreen?style=for-the-badge)](https://espress.streamlit.app/)
 
-# Espresso Yourself Café
+# ☕ Espresso Yourself Café
 
 A Streamlit-powered conversational app where you can rant to AI characters in a coffee shop setting.
 
-![Café Atmosphere](static/bg.png)
+![Café Demo]()
 
 ## Features
 
