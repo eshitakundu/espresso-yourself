@@ -4,7 +4,7 @@
 
 A Streamlit-powered conversational app where you can rant to AI characters in a coffee shop setting.
 
-![Café Demo]()
+![Café Demo](static\Espresso_Yourself_Preview.gif)
 
 ## Features
 
